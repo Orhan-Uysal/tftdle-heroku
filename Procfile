@@ -1,1 +1,1 @@
-web: java -jar target/tftle-0.0.1-SNAPSHOT.war -p 8080
+web: java -Dserver.port=8080 -jar target/tftle-0.0.1-SNAPSHOT.war
