@@ -1,0 +1,13 @@
+package com.wordl.tftle;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TftleApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

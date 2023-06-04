@@ -1,0 +1,13 @@
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/json/Variable.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/TftleApplication.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ChampionController.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/Gender.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/controllers/HomePageController.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ChampionService.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/json/Stats.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/json/Champions.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/json/Ability.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/Champion.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ChampionRepository.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/json/Champion.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ScheduledTasks.java
