@@ -1,1 +1,1 @@
-web: java -Dserver.port=8080 -jar target/tftle-0.0.1-SNAPSHOT.war
+web: java java $JAVA_OPTS -Dserver.port=$PORT -jar target/tftle-0.0.1-SNAPSHOT.war
