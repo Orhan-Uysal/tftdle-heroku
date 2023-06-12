@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.87f9249f.css",
-    "main.js": "/static/js/main.35241acd.js",
+    "main.js": "/static/js/main.bdbd3a54.js",
     "static/js/27.9c1cf127.chunk.js": "/static/js/27.9c1cf127.chunk.js",
     "static/media/tftdlebox4k.png": "/static/media/tftdlebox4k.c3ecd2a7a066cd3604a3.png",
     "static/media/tftdle-tableTitles.png": "/static/media/tftdle-tableTitles.11a7ede6859d2359475b.png",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.87f9249f.css",
-    "static/js/main.35241acd.js"
+    "static/js/main.bdbd3a54.js"
   ]
 }
