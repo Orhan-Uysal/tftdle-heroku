@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.87f9249f.css",
-    "main.js": "/static/js/main.bdbd3a54.js",
+    "main.css": "/static/css/main.a7be7099.css",
+    "main.js": "/static/js/main.4e38f951.js",
     "static/js/27.9c1cf127.chunk.js": "/static/js/27.9c1cf127.chunk.js",
     "static/media/tftdlebox4k.png": "/static/media/tftdlebox4k.c3ecd2a7a066cd3604a3.png",
+    "static/media/dropdown.png": "/static/media/dropdown.a08cbb12dc1b1277ce54.png",
     "static/media/tftdle-tableTitles.png": "/static/media/tftdle-tableTitles.11a7ede6859d2359475b.png",
     "static/media/tft-wp.jpg": "/static/media/tft-wp.993625d9d5a53709e7a8.jpg",
     "static/media/tftdle-chooseyourchampion.png": "/static/media/tftdle-chooseyourchampion.5c57bc058d61de40072e.png",
@@ -13,7 +14,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.87f9249f.css",
-    "static/js/main.bdbd3a54.js"
+    "static/css/main.a7be7099.css",
+    "static/js/main.4e38f951.js"
   ]
 }

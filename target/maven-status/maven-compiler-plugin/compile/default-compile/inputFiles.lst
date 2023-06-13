@@ -4,7 +4,6 @@
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ChampionController.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/stats/StatsRepository.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/shuffled/ShuffledChampion.java
-/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/Gender.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ChampionService.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/stats/StatsService.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/stats/Stats.java

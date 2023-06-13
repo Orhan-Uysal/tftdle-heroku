@@ -6,7 +6,7 @@ VALUES
     (4,'Aphelios','https://raw.communitydragon.org/pbe/game/assets/characters/tft9_aphelios/hud/tft9_aphelios_square.tft_set9.png','4','Male','Targon','Deadeye','Ranged'),
     (5,'Ashe','https://raw.communitydragon.org/pbe/game/assets/characters/tft9_ashe/hud/tft9_ashe_square.tft_set9.png','2','Female','Freljord','Deadeye','Ranged'),
     (6,'Azir','https://raw.communitydragon.org/pbe/game/assets/characters/tft9_azir/hud/tft9_azir_square.tft_set9.png','4','Male','Shurima','Strategist','Ranged'),
-    (7,'Bel''Veth','https://raw.communitydragon.org/pbe/game/assets/characters/tft9_belveth/hud/tft9_belveth_square.tft_set9.png','5','Female','Empress','Void','Ranged'),
+    (7,'Bel''Veth','https://raw.communitydragon.org/pbe/game/assets/characters/tft9_belveth/hud/tft9_belveth_square.tft_set9.png','5','Female','Empress, Void','None','Ranged'),
     (8,'Cassiopeia','https://raw.communitydragon.org/pbe/game/assets/characters/tft9_cassiopeia/hud/tft9_cassiopeia_square.tft_set9.png','1','Female','Noxus, Shurima','Invoker','Ranged'),
     (9,'Cho''Gath','https://raw.communitydragon.org/pbe/game/assets/characters/tft9_chogath/hud/tft9_chogath_square.tft_set9.png','1','Other','Void','Bruiser','Melee'),
     (10,'Darius','https://raw.communitydragon.org/pbe/game/assets/characters/tft9_darius/hud/tft9_darius_square.tft_set9.png','3','Male','Noxus','Juggernaut','Melee'),

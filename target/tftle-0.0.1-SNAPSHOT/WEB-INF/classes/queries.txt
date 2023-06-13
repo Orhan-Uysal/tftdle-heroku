@@ -1,0 +1,18 @@
+// convert null set to 9
+UPDATE champions
+SET set = 9
+WHERE set IS NULL;
+
+// add set to stats
+ALTER TABLE stats
+ADD COLUMN set bigint;
+
+// convert null set to 9
+UPDATE stats
+SET set = 9
+WHERE set IS NULL;
+
+// add stats row for 85
+INSERT INTO Stats (id, number_of_people_solved, day_count, set)
+VALUES
+(4, 0, 1, 85)
