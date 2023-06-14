@@ -2,6 +2,7 @@ com/wordl/tftle/champion/winner/Winner.class
 com/wordl/tftle/champion/shuffled/ShuffledChampionRepository.class
 com/wordl/tftle/champion/ScheduledTasks.class
 com/wordl/tftle/stats/StatsController.class
+com/wordl/tftle/MainConfig.class
 com/wordl/tftle/champion/winner/WinnerRepository.class
 com/wordl/tftle/champion/Champion.class
 com/wordl/tftle/champion/ChampionService.class
