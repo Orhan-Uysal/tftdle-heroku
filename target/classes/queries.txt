@@ -16,3 +16,6 @@ WHERE set IS NULL;
 INSERT INTO Stats (id, number_of_people_solved, day_count, set)
 VALUES
 (4, 0, 1, 85)
+
+ALTER TABLE Champions
+ADD COLUMN skill_name character varying(50)
