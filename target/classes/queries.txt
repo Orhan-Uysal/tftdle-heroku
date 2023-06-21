@@ -19,3 +19,13 @@ VALUES
 
 ALTER TABLE Champions
 ADD COLUMN skill_name character varying(50)
+
+CREATE TABLE Augments (
+  id SERIAL PRIMARY KEY,
+  legend VARCHAR(50),
+  augment_name VARCHAR(50),
+  icon VARCHAR(255)
+);
+
+ALTER TABLE stats
+ADD COLUMN number_of_people_solved_for_augment bigint;

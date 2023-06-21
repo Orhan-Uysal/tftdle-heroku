@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.df495d57.css",
-    "main.js": "/static/js/main.7d884ab2.js",
-    "static/js/945.6c84046e.chunk.js": "/static/js/945.6c84046e.chunk.js",
+    "main.css": "/static/css/main.32c89a16.css",
+    "main.js": "/static/js/main.d1422cac.js",
+    "static/js/945.21710e71.chunk.js": "/static/js/945.21710e71.chunk.js",
+    "static/media/tftdle-box.png": "/static/media/tftdle-box.71fe3391be58404bc9a2.png",
+    "static/media/tftdlebox4k.png": "/static/media/tftdlebox4k.c3ecd2a7a066cd3604a3.png",
     "static/media/dropdown.png": "/static/media/dropdown.a08cbb12dc1b1277ce54.png",
     "static/media/flameicon-textspace-nobar-hot.png": "/static/media/flameicon-textspace-nobar-hot.bf783ff9f52fc62fa82c.png",
     "static/media/kofi.png": "/static/media/kofi.c250e062e5763c50e07d.png",
@@ -10,13 +12,29 @@
     "static/media/tft-wp.jpg": "/static/media/tft-wp.993625d9d5a53709e7a8.jpg",
     "static/media/tftdle-chooseyourchampion.png": "/static/media/tftdle-chooseyourchampion.5c57bc058d61de40072e.png",
     "static/media/flameicon-textspace-nobar.png": "/static/media/flameicon-textspace-nobar.f99e883cce21353c10fa.png",
+    "static/media/infoicon.png": "/static/media/infoicon.c0b41c713194bbe6249b.png",
     "static/media/infoicon-nobar.png": "/static/media/infoicon-nobar.f5affbfb75acc6c66e4c.png",
     "static/media/tftdle-send.png": "/static/media/tftdle-send.b58cc8ddae651838c0ee.png",
     "static/media/tftdlelogo.png": "/static/media/tftdlelogo.00fdb66ca7aa201e428f.png",
+    "static/media/legend_largecircle_aurelionsol.png": "/static/media/legend_largecircle_aurelionsol.4d2e4884cc08b20e702c.png",
+    "static/media/legend_largecircle_bard.png": "/static/media/legend_largecircle_bard.b18ac123874199a0ad8d.png",
+    "static/media/legend_largecircle_draven.png": "/static/media/legend_largecircle_draven.a0996d4c9c18ba5a3a22.png",
+    "static/media/legend_largecircle_ornn.png": "/static/media/legend_largecircle_ornn.483473ebaed3e95576a7.png",
+    "static/media/legend_largecircle_tahmkench.png": "/static/media/legend_largecircle_tahmkench.7055a993c75beeeeb7b3.png",
+    "static/media/legend_largecircle_urf.png": "/static/media/legend_largecircle_urf.1b8c0b32471f797856a7.png",
+    "static/media/legend_largecircle_vladimir.png": "/static/media/legend_largecircle_vladimir.eed61e0c7f46c3499933.png",
+    "static/media/legend_largecircle_pengu.png": "/static/media/legend_largecircle_pengu.cf8b280c35204c90021a.png",
+    "static/media/legend_largecircle_masteryi.png": "/static/media/legend_largecircle_masteryi.4b60163df795284f1b8a.png",
+    "static/media/legend_largecircle_veigar.png": "/static/media/legend_largecircle_veigar.6c740c513349de7230ed.png",
+    "static/media/legend_largecircle_caitlyn.png": "/static/media/legend_largecircle_caitlyn.dce3e607aa29d46b5784.png",
+    "static/media/legend_largecircle_twistedfate.png": "/static/media/legend_largecircle_twistedfate.b8b4bfdd7ac6fe0d3b64.png",
+    "static/media/legend_largecircle_leesin.png": "/static/media/legend_largecircle_leesin.afe1239e57c4b0dbb16c.png",
+    "static/media/legend_largecircle_ezreal.png": "/static/media/legend_largecircle_ezreal.44c752c603feea08ee51.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.df495d57.css",
-    "static/js/main.7d884ab2.js"
+    "static/css/main.32c89a16.css",
+    "static/js/main.d1422cac.js"
   ]
 }

@@ -1,9 +1,13 @@
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/shuffled/ShuffledChampionRepository.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/MainConfig.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/augment/AugmentRepository.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/augment/AugmentService.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/TftleApplication.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/augment/Augment.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/winner/WinnerRepository.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ChampionController.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/stats/StatsRepository.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/augment/Legend.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/shuffled/ShuffledChampion.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ChampionService.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/stats/StatsService.java
@@ -11,5 +15,7 @@
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/stats/StatsController.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/Champion.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ChampionRepository.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/augment/LegendRepository.java
+/Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/augment/AugmentController.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/winner/Winner.java
 /Users/orh/git/tftle/backend/tftle/src/main/java/com/wordl/tftle/champion/ScheduledTasks.java
