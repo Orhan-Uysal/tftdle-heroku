@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.83d88a91.css",
-    "main.js": "/static/js/main.4a1a6b6c.js",
+    "main.js": "/static/js/main.6bd7c476.js",
     "static/js/945.6c84046e.chunk.js": "/static/js/945.6c84046e.chunk.js",
     "static/media/tftdle-box.webp": "/static/media/tftdle-box.71fe3391be58404bc9a2.webp",
     "static/media/tftdlebox4k.webp": "/static/media/tftdlebox4k.c3ecd2a7a066cd3604a3.webp",
@@ -10,8 +10,11 @@
     "static/media/kofi.webp": "/static/media/kofi.c250e062e5763c50e07d.webp",
     "static/media/tftdle-tableTitles.webp": "/static/media/tftdle-tableTitles.11a7ede6859d2359475b.webp",
     "static/media/tft-wp.webp": "/static/media/tft-wp.993625d9d5a53709e7a8.webp",
+    "static/media/icon-difficulty-3.webp": "/static/media/icon-difficulty-3.43be139c7b785904ba57.webp",
     "static/media/tftdle-chooseyourchampion.webp": "/static/media/tftdle-chooseyourchampion.5c57bc058d61de40072e.webp",
+    "static/media/icon-difficulty-2.webp": "/static/media/icon-difficulty-2.b942c1c760535f1f6f37.webp",
     "static/media/flameicon-textspace-nobar.webp": "/static/media/flameicon-textspace-nobar.f99e883cce21353c10fa.webp",
+    "static/media/icon-difficulty-1.webp": "/static/media/icon-difficulty-1.4a2ef28a0678cfd85341.webp",
     "static/media/infoicon.webp": "/static/media/infoicon.c0b41c713194bbe6249b.webp",
     "static/media/infoicon-nobar.webp": "/static/media/infoicon-nobar.f5affbfb75acc6c66e4c.webp",
     "static/media/tftdle-send.webp": "/static/media/tftdle-send.b58cc8ddae651838c0ee.webp",
@@ -36,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.83d88a91.css",
-    "static/js/main.4a1a6b6c.js"
+    "static/js/main.6bd7c476.js"
   ]
 }
